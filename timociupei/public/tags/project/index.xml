@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Timo Blog</title>
-    <link>https://ciupei-timotei-30323.github.io/timociupei.github.io/posts/</link>
-    <description>Recent content in Posts on Timo Blog</description>
+    <title>project on Timo Blog</title>
+    <link>https://ciupei-timotei-30323.github.io/timociupei.github.io/tags/project/</link>
+    <description>Recent content in project on Timo Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://ciupei-timotei-30323.github.io/timociupei.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://ciupei-timotei-30323.github.io/timociupei.github.io/tags/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sudoku generator</title>
       <link>https://ciupei-timotei-30323.github.io/timociupei.github.io/posts/post5/</link>
@@ -23,15 +23,6 @@
       
       <guid>https://ciupei-timotei-30323.github.io/timociupei.github.io/posts/post4/</guid>
       <description>How I made a Git home server from an old PC I had</description>
-    </item>
-    
-    <item>
-      <title>A new project</title>
-      <link>https://ciupei-timotei-30323.github.io/timociupei.github.io/posts/post3/</link>
-      <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://ciupei-timotei-30323.github.io/timociupei.github.io/posts/post3/</guid>
-      <description>Making a C# calculator on the web using Blazor and deploying using Azure</description>
     </item>
     
     <item>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CSharp on Timo Blog</title>
+    <link>https://ciupei-timotei-30323.github.io/timociupei.github.io/tags/csharp/</link>
+    <description>Recent content in CSharp on Timo Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 03 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://ciupei-timotei-30323.github.io/timociupei.github.io/tags/csharp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sudoku generator</title>
+      <link>https://ciupei-timotei-30323.github.io/timociupei.github.io/posts/post5/</link>
+      <pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://ciupei-timotei-30323.github.io/timociupei.github.io/posts/post5/</guid>
+      <description>A program that generates a 9 by 9 sudoku game written in C#</description>
+    </item>
+    
+    <item>
+      <title>A new project</title>
+      <link>https://ciupei-timotei-30323.github.io/timociupei.github.io/posts/post3/</link>
+      <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://ciupei-timotei-30323.github.io/timociupei.github.io/posts/post3/</guid>
+      <description>Making a C# calculator on the web using Blazor and deploying using Azure</description>
+    </item>
+    
+  </channel>
+</rss>
