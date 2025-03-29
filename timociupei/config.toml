@@ -1,0 +1,51 @@
+#themesDir = "themes/not-much"
+
+baseURL = 'https://ciupei-timotei-30323.github.io/timociupei.github.io/'
+languageCode = 'en-us'
+title = 'Timo Blog'
+theme = 'not-much'
+
+
+[params]
+theme = "dark"
+palette = "dracula"
+showPostsSummary = true
+
+
+
+# Navigation
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "home"
+    title = "Home"
+    url = "/"
+    weight = 1
+  
+  [[menu.main]]
+    identifier = "posts"
+    name = "posts"
+    title = "posts"
+    url = "/posts/"
+    weight = 3
+  
+  [[menu.main]]
+    identifier = "about"
+    name = "about"
+    title = "About"
+    url = "/about"
+    weight = 2
+  
+  [[menu.main]]
+    identifier = "github"
+    name = "github"
+    title = "GitHub"
+    url = "https://github.com/ciupei-timotei-30323/"
+    weight = 4
+
+  [[menu.main]]
+    identifier = "instagram"
+    name = "instagram"
+    title = "instagram"
+    url = "https://instagram.com/timo.ciupei/"
+    weight = 5
